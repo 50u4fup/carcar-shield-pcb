@@ -65,8 +65,8 @@ carcar-shield-pcb/
 │   ├── PCB_Bottom_Layer.pdf                <-- PCB 底層走線圖 (PDF)
 │   └── EasyEDA_Schematic.json              <-- EasyEDA 原始工程設計檔
 ├── docs/
-│   ├── CarCar_Assembly_and_PCB_Guide.pdf   <-- 助教自編組裝指引與排錯投影片 (精選版)
-│   └── 車車組裝-PPT_20260318.pptx          <-- 完整課程教學簡報
+│   ├── CarCar_Assembly_Guide_Complete.pdf  <-- 助教自編組裝指引與排錯投影片 (完整 57 頁 PDF)
+│   └── CarCar_Assembly_and_PCB_Guide.pdf   <-- 助教自編組裝指引與排錯投影片 (核心 2 頁精選版)
 └── images/
     ├── pcb_top.png                         <-- 頂層走線預覽圖
     ├── pcb_bottom.png                      <-- 底層走線預覽圖
